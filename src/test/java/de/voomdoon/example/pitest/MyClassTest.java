@@ -4,13 +4,6 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 import org.junit.jupiter.api.Test;
 
-/**
- * DOCME add JavaDoc for
- *
- * @author André Schulz
- *
- * @since DOCME add inception version number
- */
 class MyClassTest {
 
 	static class InnerTest {
